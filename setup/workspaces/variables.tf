@@ -1,0 +1,9 @@
+variable "atlas_token" {}
+variable "aws_secret_access_key" {}
+variable "oauth_token_id" {}
+variable "organization" {}
+variable "vault_token" {}
+variable "vault_addr" {}
+variable "aws_access_key_id" {}
+variable "keypair" {}
+variable "network_name" {}
